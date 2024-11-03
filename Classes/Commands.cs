@@ -2,7 +2,7 @@
 
 public class Commands
 {
-    public static void Help()
+    public void Help()
     {
         Console.WriteLine("/help - Вывод всех команд");
         Console.WriteLine("/exit - Завершть программу");
